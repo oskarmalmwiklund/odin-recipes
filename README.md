@@ -1,0 +1,1 @@
+This is one of the first coding projects in The Odin Project. The project is to set up a simple website with recipes.
