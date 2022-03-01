@@ -1,0 +1,59 @@
+h1,
+h2,
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 76, 77);
+    font-size: 50px;
+}
+
+.header {
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(75, 76, 77);
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.table {
+    text-align: center;
+}
+
+ul#horizontal-list{ 
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+ul#horizontal-list li {
+    display: inline;
+}
+
+body {
+    background-color: #FAF6F4;
+}
+
+p {
+    color: rgb(75, 76, 77);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    color: rgb(75, 76, 77);
+    font-family: Arial, Helvetica, sans-serif;
+}
